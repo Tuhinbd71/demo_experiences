@@ -6,6 +6,11 @@ body {
     display: flex;
 }
 
+.half_width {
+    width: 50%;
+    padding-left: 4px;
+}
+
 .head_section {
     color: coral;
 }
