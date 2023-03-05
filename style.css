@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.experiences_area {
+.experiences_container {
     display: flex;
 }
 
