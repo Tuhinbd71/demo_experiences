@@ -4,8 +4,10 @@ body {
 
 .top_heading {
     font-size: xx-large;
+    color: crimson;
     margin-left: 35px;
     margin-top: 50px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .experiences_container {
