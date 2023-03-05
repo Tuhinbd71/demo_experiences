@@ -1,3 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .experiences_area {
     display: flex;
+}
+
+.head_section {
+    color: coral;
+}
+
+.head_section2 {
+    color: darkgoldenrod;
 }
