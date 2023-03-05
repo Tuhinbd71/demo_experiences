@@ -2,13 +2,19 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.top_heading {
+    font-size: xx-large;
+}
+
 .experiences_container {
     display: flex;
 }
 
 .half_width {
     width: 50%;
+    margin: 30px;
     padding-left: 4px;
+    box-shadow: ;
 }
 
 .head_section {
