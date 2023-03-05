@@ -15,7 +15,7 @@ body {
 .half_width {
     width: 50%;
     margin: 30px;
-    padding-left: 4px;
+    padding: 15px;
     box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.50);
 }
 
@@ -25,4 +25,9 @@ body {
 
 .head_section2 {
     color: darkgoldenrod;
+}
+
+.footer_section {
+    background-color: gray;
+    padding: 20px;
 }
