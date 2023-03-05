@@ -4,6 +4,8 @@ body {
 
 .top_heading {
     font-size: xx-large;
+    margin-left: 30px;
+    margin-top: 50px;
 }
 
 .experiences_container {
@@ -14,7 +16,7 @@ body {
     width: 50%;
     margin: 30px;
     padding-left: 4px;
-    box-shadow: ;
+    box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.50);
 }
 
 .head_section {
